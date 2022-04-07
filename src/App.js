@@ -58,6 +58,8 @@ const App = () => {
           .push([8, 0])
         };
       });
+
+      setSpeed(() => 150);
     }
 
     return () => {
