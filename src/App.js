@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import Snake from "./components/Snake";
 import Food from "./components/Food";
 import LinkedList from "./utils/LinkedList";
